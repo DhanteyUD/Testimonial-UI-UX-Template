@@ -11,6 +11,7 @@ body {
 
 .wrapper {
   margin-left: 10%;
+  margin-right: 10%;
   margin-top: 5%;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
