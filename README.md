@@ -1,4 +1,4 @@
-## Testimonial Template - UI/UX
+# Testimonial Template - UI/UX
 
 ![Testimonial](images/Screen.png)
 
