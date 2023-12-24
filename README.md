@@ -2,4 +2,4 @@
 
 ![Testimonial](images/Screen.png)
 
-# NB: Still in active development...
+# NB: Still in active development
